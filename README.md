@@ -1,10 +1,10 @@
-## Hola 👋
+# Hola 👋
 
 Mi nombre es **Benjamin** me gusta la <\Programacion>, espero aprender rapido y por ahora practico [`Javascript`], [`NodeJS`], [`HTML5`], [`CSS`]
 
 ### 📫 Contactame
 
--  [`benjvvp | v12.2#3164`][`Discord`]
+-  [`benjvvp | v12.2#0001`][`Discord`]
 
 ---
 
