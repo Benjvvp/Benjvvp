@@ -4,7 +4,7 @@ Mi nombre es **Benjamin** me gusta la <\Programacion>, espero aprender rapido.
 
 ### 📫 Contactame
 
--  [`benjvvp | v12.2#3141`][`Discord`]
+-  [`_benjvvp#3141`][`Discord`]
 
 ---
 
