@@ -25,6 +25,8 @@ Mi nombre es **Benjamin** me gusta la <\Programacion>, espero aprender rapido.
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ---
+[![GitHub Streak](https://streak-stats.demolab.com?user=Benjvvp&theme=dark)](https://git.io/streak-stats)
+---
 
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=benjvvp&show_icons=true&locale=en&layout=compact&text_color=daf7dc&bg_color=151515&title_color=ffffff" alt="benjvvp" width="500px"/>
 <img src="https://github-readme-stats.vercel.app/api?username=benjvvp&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
