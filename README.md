@@ -1,6 +1,6 @@
-# Hola 👋
+# Hola 👋 Mi nombre es **Benjamin Perez**
 
-Mi nombre es **Benjamin** me gusta la <\Programacion>, espero aprender rapido.
+Me gusta la <\Programacion>, espero aprender rapido.
 
 ### 📫 Contactame
 
