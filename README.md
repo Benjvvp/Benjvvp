@@ -1,7 +1,5 @@
 # Hola 👋 Mi nombre es **Benjamin Perez**
 
-Me gusta la <\Programacion>, espero aprender rapido.
-
 ### 📫 Contactame
 
 -  [`_benjvvp#3141`][`Discord`]
