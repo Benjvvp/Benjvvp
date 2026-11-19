@@ -1,7 +1,17 @@
 # Hola 👋 Mi nombre es **Benjamin Perez**
 
+Full Stack Developer en Santiago, Chile. Trabajo con TypeScript, React / Next.js, NestJS y PostgreSQL.
+
+🌐 Portafolio y casos de estudio: **[benjaminperez.dev](https://www.benjaminperez.dev)**
+
+### ⭐ Repositorio destacado
+
+- [pokedex-graphql](https://github.com/Benjvvp/pokedex-graphql): el proyecto que usé en una charla sobre GraphQL en la TechSchool de JavaScript Chile.
+
 ### 📫 Contactame
 
+- [benjaminperez.dev](https://www.benjaminperez.dev/#contact)
+- [LinkedIn](https://www.linkedin.com/in/benjaminperezacevedo)
 -  [`_benjvvp#3141`][`Discord`]
 
 ---
